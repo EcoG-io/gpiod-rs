@@ -1,0 +1,5 @@
+[registries]
+ecog-io = { index = "ssh://git@github.com/EcoG-io/ktra-registry" }
+
+[net]
+git-fetch-with-cli = true
